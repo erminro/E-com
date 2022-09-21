@@ -1,0 +1,15 @@
+D:\Amdaris-Project\InternshipApplication\InternshipApplication.Web.Core\bin\Debug\net6.0\InternshipApplication.Web.Core.deps.json
+D:\Amdaris-Project\InternshipApplication\InternshipApplication.Web.Core\bin\Debug\net6.0\InternshipApplication.Web.Core.dll
+D:\Amdaris-Project\InternshipApplication\InternshipApplication.Web.Core\bin\Debug\net6.0\InternshipApplication.Web.Core.pdb
+D:\Amdaris-Project\InternshipApplication\InternshipApplication.Web.Core\bin\Debug\net6.0\InernshipApplication.Web.Domain.dll
+D:\Amdaris-Project\InternshipApplication\InternshipApplication.Web.Core\bin\Debug\net6.0\InernshipApplication.Web.Domain.pdb
+D:\Amdaris-Project\InternshipApplication\InternshipApplication.Web.Core\obj\Debug\net6.0\InternshipApplication.Web.Core.csproj.AssemblyReference.cache
+D:\Amdaris-Project\InternshipApplication\InternshipApplication.Web.Core\obj\Debug\net6.0\InternshipApplication.Web.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amdaris-Project\InternshipApplication\InternshipApplication.Web.Core\obj\Debug\net6.0\InternshipApplication.Web.Core.AssemblyInfoInputs.cache
+D:\Amdaris-Project\InternshipApplication\InternshipApplication.Web.Core\obj\Debug\net6.0\InternshipApplication.Web.Core.AssemblyInfo.cs
+D:\Amdaris-Project\InternshipApplication\InternshipApplication.Web.Core\obj\Debug\net6.0\InternshipApplication.Web.Core.csproj.CoreCompileInputs.cache
+D:\Amdaris-Project\InternshipApplication\InternshipApplication.Web.Core\obj\Debug\net6.0\InternshipApplication.Web.Core.csproj.CopyComplete
+D:\Amdaris-Project\InternshipApplication\InternshipApplication.Web.Core\obj\Debug\net6.0\InternshipApplication.Web.Core.dll
+D:\Amdaris-Project\InternshipApplication\InternshipApplication.Web.Core\obj\Debug\net6.0\refint\InternshipApplication.Web.Core.dll
+D:\Amdaris-Project\InternshipApplication\InternshipApplication.Web.Core\obj\Debug\net6.0\InternshipApplication.Web.Core.pdb
+D:\Amdaris-Project\InternshipApplication\InternshipApplication.Web.Core\obj\Debug\net6.0\ref\InternshipApplication.Web.Core.dll

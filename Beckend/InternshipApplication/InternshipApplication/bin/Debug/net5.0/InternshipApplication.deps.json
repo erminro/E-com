@@ -1,0 +1,64 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "InternshipApplication/1.0.0": {
+        "dependencies": {
+          "InternshipApplication.Web.Core": "1.0.0",
+          "InternshipApplication.Web.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "InternshipApplication.dll": {}
+        }
+      },
+      "InernshipApplication.Web.Domain/1.0.0": {
+        "runtime": {
+          "InernshipApplication.Web.Domain.dll": {}
+        }
+      },
+      "InternshipApplication.Web.Core/1.0.0": {
+        "dependencies": {
+          "InernshipApplication.Web.Domain": "1.0.0"
+        },
+        "runtime": {
+          "InternshipApplication.Web.Core.dll": {}
+        }
+      },
+      "InternshipApplication.Web.Infrastructure/1.0.0": {
+        "dependencies": {
+          "InernshipApplication.Web.Domain": "1.0.0",
+          "InternshipApplication.Web.Core": "1.0.0"
+        },
+        "runtime": {
+          "InternshipApplication.Web.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InternshipApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InernshipApplication.Web.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InternshipApplication.Web.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InternshipApplication.Web.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

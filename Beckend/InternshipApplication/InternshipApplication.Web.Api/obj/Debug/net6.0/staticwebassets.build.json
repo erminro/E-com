@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rF1tmyvVac6kGpHIKRiqXSsxyT235/igfUAhUtfPG0k=",
+  "Source": "InternshipApplication.Web.Api",
+  "BasePath": "_content/InternshipApplication.Web.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

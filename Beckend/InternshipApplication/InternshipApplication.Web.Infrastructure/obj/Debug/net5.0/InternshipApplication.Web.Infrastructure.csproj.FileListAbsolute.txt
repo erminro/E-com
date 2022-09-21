@@ -1,0 +1,17 @@
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Infrastructure\bin\Debug\net5.0\InternshipApplication.Web.Infrastructure.deps.json
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Infrastructure\bin\Debug\net5.0\InternshipApplication.Web.Infrastructure.dll
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Infrastructure\bin\Debug\net5.0\ref\InternshipApplication.Web.Infrastructure.dll
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Infrastructure\bin\Debug\net5.0\InternshipApplication.Web.Infrastructure.pdb
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Infrastructure\bin\Debug\net5.0\InernshipApplication.Web.Domain.dll
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Infrastructure\bin\Debug\net5.0\InternshipApplication.Web.Core.dll
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Infrastructure\bin\Debug\net5.0\InernshipApplication.Web.Domain.pdb
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Infrastructure\bin\Debug\net5.0\InternshipApplication.Web.Core.pdb
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Infrastructure\obj\Debug\net5.0\InternshipApplication.Web.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Infrastructure\obj\Debug\net5.0\InternshipApplication.Web.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Infrastructure\obj\Debug\net5.0\InternshipApplication.Web.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Infrastructure\obj\Debug\net5.0\InternshipApplication.Web.Infrastructure.AssemblyInfo.cs
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Infrastructure\obj\Debug\net5.0\InternshipApplication.Web.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Infrastructure\obj\Debug\net5.0\InternshipApplication.Web.Infrastructure.csproj.CopyComplete
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Infrastructure\obj\Debug\net5.0\InternshipApplication.Web.Infrastructure.dll
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Infrastructure\obj\Debug\net5.0\ref\InternshipApplication.Web.Infrastructure.dll
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Infrastructure\obj\Debug\net5.0\InternshipApplication.Web.Infrastructure.pdb

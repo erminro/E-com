@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "InternshipApplication.Web.Core/1.0.0": {
+        "dependencies": {
+          "InernshipApplication.Web.Domain": "1.0.0"
+        },
+        "runtime": {
+          "InternshipApplication.Web.Core.dll": {}
+        }
+      },
+      "InernshipApplication.Web.Domain/1.0.0": {
+        "runtime": {
+          "InernshipApplication.Web.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InternshipApplication.Web.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InernshipApplication.Web.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

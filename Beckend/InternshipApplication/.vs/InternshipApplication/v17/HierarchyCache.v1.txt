@@ -1,0 +1,256 @@
+﻿++Solution 'InternshipApplication' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:InternshipApplication.sln
+++InternshipApplication.Web.Api
+i:{00000000-0000-0000-0000-000000000000}:InternshipApplication.Web.Api
+++Connected Services 
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:>925
+++Secrets.json (Local)
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:>1009
+++Secrets.json (Local) dependency is detected
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:>1010
+++SQL Server Database
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:>1011
+++SQL Server Database dependency is detected
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:>1012
+++Dependencies
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:>924
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:>709
+i:{7b2506ae-c854-4642-9486-8844c5fbb459}:>708
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:>858
+++Analyzers
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:analyzers
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:analyzers
+i:{7b2506ae-c854-4642-9486-8844c5fbb459}:analyzers
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:analyzers
+++Frameworks
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:frameworks
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:frameworks
+i:{7b2506ae-c854-4642-9486-8844c5fbb459}:frameworks
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:frameworks
+++Microsoft.AspNetCore.App
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:d:\amdaris-project\internshipapplication\internshipapplication.web.api\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:d:\amdaris-project\internshipapplication\internshipapplication.web.api\microsoft.netcore.app
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\microsoft.netcore.app
+i:{7b2506ae-c854-4642-9486-8844c5fbb459}:d:\amdaris-project\internshipapplication\inernshipapplication.web.domain\microsoft.netcore.app
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:d:\amdaris-project\internshipapplication\internshipapplication.web.infrastructure\microsoft.netcore.app
+++Packages
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:packages
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:packages
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:packages
+++MediatR (10.0.1)
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:>991
+++MediatR.Extensions.Microsoft.DependencyInjection (10.0.1)
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:>992
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:>953
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.3)
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:>1013
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:>951
+++Microsoft.EntityFrameworkCore.Tools (6.0.0)
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:>1002
+++Swashbuckle.AspNetCore (6.2.3)
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:>988
+++Projects
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:projects
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:projects
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:projects
+++Properties
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:d:\amdaris-project\internshipapplication\internshipapplication.web.api\properties\
+++launchSettings.json
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:d:\amdaris-project\internshipapplication\internshipapplication.web.api\properties\launchsettings.json
+++serviceDependencies.json
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:d:\amdaris-project\internshipapplication\internshipapplication.web.api\properties\servicedependencies.json
+++serviceDependencies.local.json
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:d:\amdaris-project\internshipapplication\internshipapplication.web.api\properties\servicedependencies.local.json
+++Controllers
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:d:\amdaris-project\internshipapplication\internshipapplication.web.api\controllers\
+++UserController.cs
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:d:\amdaris-project\internshipapplication\internshipapplication.web.api\controllers\usercontroller.cs
+++appsettings.json
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:d:\amdaris-project\internshipapplication\internshipapplication.web.api\appsettings.json
+++appsettings.Development.json
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:d:\amdaris-project\internshipapplication\internshipapplication.web.api\appsettings.development.json
+++Program.cs
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:d:\amdaris-project\internshipapplication\internshipapplication.web.api\program.cs
+++WeatherForecast.cs
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:d:\amdaris-project\internshipapplication\internshipapplication.web.api\weatherforecast.cs
+++Microsoft.AspNetCore.Analyzers
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{7b2506ae-c854-4642-9486-8844c5fbb459}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{7b2506ae-c854-4642-9486-8844c5fbb459}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:c:\users\ermin\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.0\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:c:\users\ermin\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:c:\users\ermin\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.3\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.3\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:c:\users\ermin\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:c:\users\ermin\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:c:\program files\dotnet\sdk\6.0.201\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{7b2506ae-c854-4642-9486-8844c5fbb459}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.3\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++InternshipApplication.Web.Core
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\internshipapplication.web.core.csproj
+i:{00000000-0000-0000-0000-000000000000}:InternshipApplication.Web.Core
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\bin\debug\net6.0\internshipapplication.web.core.dll
+++InternshipApplication.Web.Infrastructure
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:d:\amdaris-project\internshipapplication\internshipapplication.web.infrastructure\internshipapplication.web.infrastructure.csproj
+i:{00000000-0000-0000-0000-000000000000}:InternshipApplication.Web.Infrastructure
+++CommandHandler
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commandhandler\
+++Categories
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commandhandler\categories\
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commands\categories\
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\queries\categories\
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\queryhandler\categories\
+++CreateCategoryCommandHandler.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commandhandler\categories\createcategorycommandhandler.cs
+++DeleteCategoryCommandHandler.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commandhandler\categories\deletecategorycommandhandler.cs
+++UpdateCategoryCommandHandler.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commandhandler\categories\updatecategorycommandhandler.cs
+++Products
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commandhandler\products\
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commands\products\
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\queries\products\
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\queryhandler\products\
+++Users
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commandhandler\users\
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commands\users\
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\queries\users\
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\queryhandler\users\
+++CreateUserCommandHandler.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commandhandler\users\createusercommandhandler.cs
+++DeleteUserCommandHandler.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commandhandler\users\deleteusercommandhandler.cs
+++UpdateUserCommandHandler.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commandhandler\users\updateusercommandhandler.cs
+++Commands
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commands\
+++CreateCategoryCommand.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commands\categories\createcategorycommand.cs
+++DeleteCategoryCommand.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commands\categories\deletecategorycommand.cs
+++UpdateCategoryCommand.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commands\categories\updatecategorycommand.cs
+++CreateProductCommand.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commands\products\createproductcommand.cs
+++DeleteProductCommand.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commands\products\deleteproductcommand.cs
+++UpdateProductCommand.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commands\products\updateproductcommand.cs
+++CreateUserCommand.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commands\users\createusercommand.cs
+++DeleteUserCommand.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commands\users\deleteusercommand.cs
+++UpdateUserCommand.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commands\users\updateusercommand.cs
+++Dto
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\dto\
+++CategoryDto.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\dto\categorydto.cs
+++ProductDto.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\dto\productdto.cs
+++UserDto.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\dto\userdto.cs
+++Interfaces
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\interfaces\
+++Queries
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\queries\
+++GetCategoryQuery.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\queries\categories\getcategoryquery.cs
+++GetUserQuery.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\queries\users\getuserquery.cs
+++QueryHandler
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\queryhandler\
+++GetUsersQueryHandler.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\queryhandler\users\getusersqueryhandler.cs
+++CreateProductCommandHandler.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commandhandler\products\createproductcommandhandler.cs
+++DeleteProductCommandHandler.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commandhandler\products\deleteproductcommandhandler.cs
+++UpdateProductCommandHandler.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\commandhandler\products\updateproductcommandhandler.cs
+++Repositories
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\interfaces\repositories\
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:d:\amdaris-project\internshipapplication\internshipapplication.web.infrastructure\repositories\
+++IUnitOfWork.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\interfaces\iunitofwork.cs
+++GetProductQuery.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\queries\products\getproductquery.cs
+++GetCategoryQueryHandler.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\queryhandler\categories\getcategoryqueryhandler.cs
+++GetProductQueryHandler.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\queryhandler\products\getproductqueryhandler.cs
+++Microsoft.EntityFrameworkCore (6.0.3)
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:>952
+++InernshipApplication.Web.Domain
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\inernshipapplication.web.domain\bin\debug\net6.0\inernshipapplication.web.domain.dll
+i:{00000000-0000-0000-0000-000000000000}:InernshipApplication.Web.Domain
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:d:\amdaris-project\internshipapplication\inernshipapplication.web.domain\bin\debug\net6.0\inernshipapplication.web.domain.dll
+++ICategoryRepository.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\interfaces\repositories\icategoryrepository.cs
+++IProductRepository.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\interfaces\repositories\iproductrepository.cs
+++IUserRepository.cs
+i:{b9cfa40b-6f7d-427f-b510-9c73b8ac9f18}:d:\amdaris-project\internshipapplication\internshipapplication.web.core\interfaces\repositories\iuserrepository.cs
+++Category.cs
+i:{7b2506ae-c854-4642-9486-8844c5fbb459}:d:\amdaris-project\internshipapplication\inernshipapplication.web.domain\category.cs
+++Product.cs
+i:{7b2506ae-c854-4642-9486-8844c5fbb459}:d:\amdaris-project\internshipapplication\inernshipapplication.web.domain\product.cs
+++Review.cs
+i:{7b2506ae-c854-4642-9486-8844c5fbb459}:d:\amdaris-project\internshipapplication\inernshipapplication.web.domain\review.cs
+++User.cs
+i:{7b2506ae-c854-4642-9486-8844c5fbb459}:d:\amdaris-project\internshipapplication\inernshipapplication.web.domain\user.cs
+++Data
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:d:\amdaris-project\internshipapplication\internshipapplication.web.infrastructure\data\
+++Migrations
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:d:\amdaris-project\internshipapplication\internshipapplication.web.infrastructure\data\migrations\
+++DataContext.cs
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:d:\amdaris-project\internshipapplication\internshipapplication.web.infrastructure\data\datacontext.cs
+++UnitOfWork.cs
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:d:\amdaris-project\internshipapplication\internshipapplication.web.infrastructure\data\unitofwork.cs
+++20220324142316_CreateDatabase.cs
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:d:\amdaris-project\internshipapplication\internshipapplication.web.infrastructure\data\migrations\20220324142316_createdatabase.cs
+++20220403202450_CreateDatabase2.cs
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:d:\amdaris-project\internshipapplication\internshipapplication.web.infrastructure\data\migrations\20220403202450_createdatabase2.cs
+++DataContextModelSnapshot.cs
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:d:\amdaris-project\internshipapplication\internshipapplication.web.infrastructure\data\migrations\datacontextmodelsnapshot.cs
+++CategoryRepository.cs
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:d:\amdaris-project\internshipapplication\internshipapplication.web.infrastructure\repositories\categoryrepository.cs
+++ProductRepository.cs
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:d:\amdaris-project\internshipapplication\internshipapplication.web.infrastructure\repositories\productrepository.cs
+++UserRepository.cs
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:d:\amdaris-project\internshipapplication\internshipapplication.web.infrastructure\repositories\userrepository.cs
+++Microsoft.EntityFrameworkCore.Design (6.0.3)
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:>954
+++Microsoft.EntityFrameworkCore.Tools (6.0.3)
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:>955
+++20220324142316_CreateDatabase.Designer.cs
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:d:\amdaris-project\internshipapplication\internshipapplication.web.infrastructure\data\migrations\20220324142316_createdatabase.designer.cs
+++20220403202450_CreateDatabase2.Designer.cs
+i:{ae2fbf84-2887-47a8-be11-abe8a866737e}:d:\amdaris-project\internshipapplication\internshipapplication.web.infrastructure\data\migrations\20220403202450_createdatabase2.designer.cs
+++BaseApiController.cs
+i:{293ec4fb-b05c-4604-a046-92b59a960ff2}:d:\amdaris-project\internshipapplication\internshipapplication.web.api\controllers\baseapicontroller.cs

@@ -1,0 +1,15 @@
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Core\bin\Debug\net5.0\InternshipApplication.Web.Core.deps.json
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Core\bin\Debug\net5.0\InternshipApplication.Web.Core.dll
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Core\bin\Debug\net5.0\ref\InternshipApplication.Web.Core.dll
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Core\bin\Debug\net5.0\InternshipApplication.Web.Core.pdb
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Core\bin\Debug\net5.0\InernshipApplication.Web.Domain.dll
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Core\bin\Debug\net5.0\InernshipApplication.Web.Domain.pdb
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Core\obj\Debug\net5.0\InternshipApplication.Web.Core.csproj.AssemblyReference.cache
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Core\obj\Debug\net5.0\InternshipApplication.Web.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Core\obj\Debug\net5.0\InternshipApplication.Web.Core.AssemblyInfoInputs.cache
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Core\obj\Debug\net5.0\InternshipApplication.Web.Core.AssemblyInfo.cs
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Core\obj\Debug\net5.0\InternshipApplication.Web.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Core\obj\Debug\net5.0\InternshipApplication.Web.Core.csproj.CopyComplete
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Core\obj\Debug\net5.0\InternshipApplication.Web.Core.dll
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Core\obj\Debug\net5.0\ref\InternshipApplication.Web.Core.dll
+C:\Users\Ermin\source\repos\ConsoleApp4\InternshipApplication.Web.Core\obj\Debug\net5.0\InternshipApplication.Web.Core.pdb

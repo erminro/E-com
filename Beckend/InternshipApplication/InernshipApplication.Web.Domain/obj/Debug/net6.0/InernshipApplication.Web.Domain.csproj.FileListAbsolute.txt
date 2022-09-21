@@ -1,0 +1,12 @@
+D:\Amdaris-Project\InternshipApplication\InernshipApplication.Web.Domain\bin\Debug\net6.0\InernshipApplication.Web.Domain.deps.json
+D:\Amdaris-Project\InternshipApplication\InernshipApplication.Web.Domain\bin\Debug\net6.0\InernshipApplication.Web.Domain.dll
+D:\Amdaris-Project\InternshipApplication\InernshipApplication.Web.Domain\bin\Debug\net6.0\InernshipApplication.Web.Domain.pdb
+D:\Amdaris-Project\InternshipApplication\InernshipApplication.Web.Domain\obj\Debug\net6.0\InernshipApplication.Web.Domain.csproj.AssemblyReference.cache
+D:\Amdaris-Project\InternshipApplication\InernshipApplication.Web.Domain\obj\Debug\net6.0\InernshipApplication.Web.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Amdaris-Project\InternshipApplication\InernshipApplication.Web.Domain\obj\Debug\net6.0\InernshipApplication.Web.Domain.AssemblyInfoInputs.cache
+D:\Amdaris-Project\InternshipApplication\InernshipApplication.Web.Domain\obj\Debug\net6.0\InernshipApplication.Web.Domain.AssemblyInfo.cs
+D:\Amdaris-Project\InternshipApplication\InernshipApplication.Web.Domain\obj\Debug\net6.0\InernshipApplication.Web.Domain.csproj.CoreCompileInputs.cache
+D:\Amdaris-Project\InternshipApplication\InernshipApplication.Web.Domain\obj\Debug\net6.0\InernshipApplication.Web.Domain.dll
+D:\Amdaris-Project\InternshipApplication\InernshipApplication.Web.Domain\obj\Debug\net6.0\refint\InernshipApplication.Web.Domain.dll
+D:\Amdaris-Project\InternshipApplication\InernshipApplication.Web.Domain\obj\Debug\net6.0\InernshipApplication.Web.Domain.pdb
+D:\Amdaris-Project\InternshipApplication\InernshipApplication.Web.Domain\obj\Debug\net6.0\ref\InernshipApplication.Web.Domain.dll
